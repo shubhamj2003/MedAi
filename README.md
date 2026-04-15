@@ -1,12 +1,13 @@
 # Multiple Disease Prediction Webapp
 
-> **Abstract** : The designed web app employs the Streamlit Python library for frontend design and communicates with backend ML models to predict the probability of diseases. Multiple Disease Prediction has many machine learning models used in prediction. We will be able to choose the diseases from the navigation bar or a sidebar for which we want to make a prediction using various input values. These input values will be the symptoms, physical health data, or blood test results. We will first trained our model from historic data, so it can make accurate predictions. It's capable of predicting whether someone has Diabetes, Heart issues, Parkinson's, Liver conditions, Hepatitis, Jaundice, and more based on the provided symptoms, medical history, and results.
+> **Abstract** : Artificial Intelligence (AI) and Machine Learning (ML) have significantly improved the efficiency of modern healthcare systems by enabling early and accurate disease prediction. One of the major challenges in healthcare is identifying diseases at an early stage, as initial symptoms are often hidden within routine medical data such as blood pressure, glucose levels, and cholesterol. Manual analysis of these parameters can be complex and time-consuming, which may lead to delayed diagnosis.
+> This project presents MedAI-SVM, a machine learning-based framework designed for the early detection of multiple diseases using patient health data. The system uses the Support Vector Machine (SVM) algorithm, which is highly effective for classification tasks, to analyze input parameters and predict the risk level of diseases. The model is trained on healthcare datasets and is capable of identifying hidden patterns and relationships between various health indicators.
+> The proposed system is implemented as a user-friendly web application where users can input their health details and receive instant predictions along with basic health recommendations. Data preprocessing techniques such as cleaning, normalization, and feature selection are applied to improve the accuracy and reliability of the model. The system is evaluated using performance metrics such as accuracy, precision, recall, and F1-score to ensure effective prediction.
+> Overall, this project aims to provide a simple, efficient, and accessible solution for early disease detection, supporting preventive healthcare and assisting users in making informed medical decisions.
 
 ### Project Members
-1. KHAN MOHAMMED DANISH NISAR AHMED  [ Team Leader ] 
-2. MANJREKAR SOHAM SHRIKANT 
-3. KHAN MUZAFFAR MOHAMMAD SOAIB 
-4. JAMADAR DANISH RASHID 
+1. SHUBHAM KUMAR JHA  [ Team Leader ] 
+2. CH NAAVYA
 
 
 ### Deployment Steps
