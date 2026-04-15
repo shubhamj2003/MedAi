@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.joblib
+*.sav
+*.mp4
+*.pptx
+*.pdf
+.env
